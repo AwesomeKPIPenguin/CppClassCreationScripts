@@ -8,8 +8,8 @@ First script, located in **.vimrc**, obviously, is for vim editor.
 Just copy it's content to your .vimrc (vim configurational file) and you will get **:ClassCpp** and **:ClassHpp** commands
 in your vim, which will fill your file with .cpp or .hpp file basic content respectively.
 
-Second one is a bash script, in **.zshrc**. Same to vim script, you should copy it's content, but not exactly into .zshrc file - 
-configuration file depends on your console. It will provide you with **cppclass** command.
+Second one is a shell script, in **.zshrc**. Same to vim script, you should copy it's content, but not exactly into .zshrc file - 
+configuration file depends on your shell. It will provide you with **cppclass** command.
 
 The usage is next:
 
